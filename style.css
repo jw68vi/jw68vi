@@ -11,8 +11,8 @@
    ========================================================================== */
 
 html {
-  font-family: sans-serif;  /* 1 */
-  /*font-family: 'Poiret One', cursive; */
+  /*font-family: sans-serif;*/  /* 1 */
+  font-family: 'Poiret One', sans-serif; 
   line-height: 1.15; /* 2 */
   -ms-text-size-adjust: 100%; /* 3 */
   -webkit-text-size-adjust: 100%; /* 3 */
