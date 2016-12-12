@@ -461,3 +461,7 @@ template {
 [hidden] {
   display: none;
 }
+
+ul {
+  list-style-type: upper-roman;
+}
